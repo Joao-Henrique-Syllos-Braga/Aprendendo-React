@@ -1,0 +1,17 @@
+.header {
+    background-color: whitesmoke;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 1000px;
+}
+
+a {
+    margin-left: 10px;
+}
+
+.header, a {
+    font-size: 30pt;
+}
